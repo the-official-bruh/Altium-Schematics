@@ -2,9 +2,11 @@
 Any schematics and footprints I have yet to find online, I will make and update here!
 
 No guarantees they are dimensioned properly!
+
 ----------------------------------------------------------------------------
 Current Available Schematics:
 - I2C->LCD Controller + Footprint
+
 ----------------------------------------------------------------------------
 License
 "THE BEER-WARE LICENSE" (Revision 42):
