@@ -13,6 +13,8 @@ Current Available Schematics:
 - LTC1661
 - New Capacitor Footprints (Pol and Non-pol + 2 sizes)
 - RGB LED Header
+- Arduino Nano (originally from: https://github.com/ehsunmotamedi/)
+- DC Barrel Jack
 
 ----------------------------------------------------------------------------
 "THE BEER-WARE LICENSE" (Revision 42):
