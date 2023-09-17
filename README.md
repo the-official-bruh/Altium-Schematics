@@ -5,16 +5,20 @@ No guarantees they are dimensioned properly!
 
 ----------------------------------------------------------------------------
 Current Available Schematics:
-- I2C->LCD Controller + Footprint
+- TPA3116D2 100W Mono Amplifier Piggyback
+- 1602 I2C-LCD Controller + Footprint
 - AudioFX Soundboard from Adafruit
 - DS3231 Real-Time Clock
+- XL6009-Based Boost/Buck Piggyback
 - LM386
 - LT1632
 - LTC1661
 - New Capacitor Footprints (Pol and Non-pol + 2 sizes)
 - RGB LED Header
-- Arduino Nano (originally from: https://github.com/ehsunmotamedi/)
+- Arduino Nano
 - DC Barrel Jack
+- NRF905 Interface Port for Header
+- High-Power Via, with holes and top-solder point
 
 ----------------------------------------------------------------------------
 "THE BEER-WARE LICENSE" (Revision 42):
